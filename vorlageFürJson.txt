@@ -1,0 +1,49 @@
+{
+  "Recipe": [
+    
+    {
+      "name": "OverNightProats",
+      "tag": [
+        "morning",
+        "prep",
+        "süß"
+      ],
+      "Ingredients": [
+        "80 g zarte Haferflocken",
+        "40g Vanille Whey",
+        "160ml Wasser", 
+        "200g TK-Himbeeren"
+      ],
+      "Steps": [
+        "1. Haferflocken und Whey vermischen",
+        "2. Wasser dazu und gut umrühren",
+        "3. Ab in den Kühlschrank und über Nacht oder auch länger ziehen lassen"
+      ]
+    },
+    
+    {
+      "name": "Haferpfannkuchen",
+      "tag": [
+        "morning",
+        "süß",
+        "main"
+      ],
+      "Ingredients": [
+        "75 g gemahlene Haferflocken",
+        "25g (Weizen)mehl",
+        "100ml Milch",
+        " 1 Ei",
+        "1TL Backpulver",
+        "prise Salz",
+        "1EL Süßstoff oder Zucker"
+      ],
+      "Steps": [
+        "1. Alles gut verrühren und ca 10-15 min ziehen lassen. Solange Pfanne auf mittlerr Stufe vorheizen.",
+        "2.Teig in die Pfanne geben und sobal der Boden goldbraun ist wenden ",
+        "3. Mit Obst, Quark, Joghurt und/oder meiner schnellen Vanillesoße genießen"
+      ]
+    }
+    
+    
+  ]
+}
